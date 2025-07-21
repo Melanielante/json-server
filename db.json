@@ -87,5 +87,106 @@
       "content": "Developing skills inhggyfdjhjwdbiuqdys",
       "id": 5
     }
+  ],
+   "goals": [
+    {
+      "id": 1,
+      "name": "Travel to Mombasa",
+      "category": "Vacation",
+      "targetAmount": 50000,
+      "savedAmount": 20000,
+      "deadline": "2025-08-15",
+      "createdAt": "2025-07-01"
+    },
+    {
+      "id": 2,
+      "name": "Emergency Fund",
+      "category": "Savings",
+      "targetAmount": 100000,
+      "savedAmount": 100000,
+      "deadline": "2025-12-31",
+      "createdAt": "2025-06-01"
+    },
+    {
+      "id": 3,
+      "name": "Laptop Upgrade",
+      "category": "Gadgets",
+      "targetAmount": 80000,
+      "savedAmount": 15000,
+      "deadline": "2025-07-25",
+      "createdAt": "2025-07-05"
+    },
+    {
+      "id": 4,
+      "name": "Birthday Gift",
+      "category": "Personal",
+      "targetAmount": 10000,
+      "savedAmount": 4000,
+      "deadline": "2025-07-10",
+      "createdAt": "2025-06-20"
+    },
+    {
+      "id": 5,
+      "name": "Christmas Shopping",
+      "category": "Holiday",
+      "targetAmount": 30000,
+      "savedAmount": 20000,
+      "deadline": "2025-12-20",
+      "createdAt": "2025-07-12"
+    },
+    {
+      "id": 6,
+      "name": "New Phone",
+      "category": "Gadgets",
+      "targetAmount": 60000,
+      "savedAmount": 30000,
+      "deadline": "2025-08-30",
+      "createdAt": "2025-07-10"
+    },
+    {
+      "id": 7,
+      "name": "Charity Donation",
+      "category": "Giving",
+      "targetAmount": 20000,
+      "savedAmount": 20000,
+      "deadline": "2025-09-01",
+      "createdAt": "2025-06-15"
+    },
+    {
+      "id": 8,
+      "name": "Car Service",
+      "category": "Maintenance",
+      "targetAmount": 15000,
+      "savedAmount": 15000,
+      "deadline": "2025-07-15",
+      "createdAt": "2025-07-01"
+    },
+    {
+      "id": 9,
+      "name": "Online Course",
+      "category": "Education",
+      "targetAmount": 25000,
+      "savedAmount": 5000,
+      "deadline": "2025-08-10",
+      "createdAt": "2025-07-06"
+    },
+    {
+      "id": 10,
+      "name": "Apartment Deposit",
+      "category": "Housing",
+      "targetAmount": 120000,
+      "savedAmount": 60000,
+      "deadline": "2025-09-15",
+      "createdAt": "2025-07-03"
+    },
+    {
+      "name": "PARTY",
+      "category": "PARTY FUNDS",
+      "targetAmount": 50000,
+      "deadline": "2025-08-16",
+      "savedAmount": 30000,
+      "createdAt": "2025-07-20T18:06:49.358Z",
+      "id": 11
+    }
   ]
 }
